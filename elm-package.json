@@ -1,7 +1,7 @@
 {
     "version": "4.0.1",
     "summary": "Html shorthand for Bootstrap",
-    "repository": "https://github.com/circuithub/elm-bootstrap-html.git",
+    "repository": "https://github.com/iilab/elm-bootstrap-html.git",
     "license": "MIT",
     "source-directories": [
         "src"
